@@ -1,7 +1,3 @@
-Here’s your tailored README.md scaffold, ready to copy and paste into your repo root:
-
----
-
 # 🗨️ Comment Form App (Next.js + Neon + Vercel)
 
 A minimal full-stack app that lets users submit and view comments in real time using:
@@ -130,7 +126,3 @@ Built with ❤️ by [@iamkingdes98](https://github.com/iamkingdes98)
 ## 🛡️ License
 
 MIT
-
----
-
-Would you like me to generate a matching `LICENSE` file (MIT) or a basic `package.json` for you next?
